@@ -37,7 +37,7 @@
   <img alt="Electron" src="https://img.shields.io/badge/-Electron-2f3241?style=flat-square&logo=Electron&logoColor=white" />
   <img alt="ESLint" src="https://img.shields.io/badge/-ESLint-3730c6?style=flat-square&logo=ESLint&logoColor=white" />
   <img alt="Expo" src="https://img.shields.io/badge/-Expo-00001e?style=flat-square&logo=Expo&logoColor=white" />
-  <img alt="Gatsby" src="  https://img.shields.io/badge/-Gatsby-603092?style=flat-square&logo=Gatsby&logoColor=white" />
+  <img alt="Gatsby" src="https://img.shields.io/badge/-Gatsby-603092?style=flat-square&logo=Gatsby&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
  
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -56,7 +56,7 @@
   <img alt="Storybook" src="https://img.shields.io/badge/-Storybook-f1437e?style=flat-square&logo=Storybook&logoColor=white" />
 <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="Visual Studio Code" src=" https://img.shields.io/badge/-Visual_Studio_Code-3ba1e7?style=flat-square&logo=visualstudiocode&logoColor=white" />
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual_Studio_Code-3ba1e7?style=flat-square&logo=visualstudiocode&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
   <img alt="WordPress" src="https://img.shields.io/badge/-WordPress-1f6e93?style=flat-square&logo=WordPress&logoColor=white" /> 
 </p>
