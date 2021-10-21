@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **mailhimanshupatil@gmail.com**
 
-- 📄 Know about my experiences [PDF](google.com)
+- 📄 Know about my experiences [PDF](https://drive.google.com/file/d/1FQZQ0x3tZbweyQOoJI-Owum0h2jwXft6/view?usp=sharing)
 <br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
