@@ -62,7 +62,7 @@
 <br/>
 
 <h3 align="left">Github Stats:</h3>
-<p  align="center" ><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=mehimanshupatil&show_icons=true&locale=en&layout=compact" alt="mehimanshupatil" height="165"/>&nbsp;
+<p  align="center" ><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=mehimanshupatil&show_icons=true&locale=en&layout=compact" alt="mehimanshupatil" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api?username=mehimanshupatil&show_icons=true&locale=en" alt="mehimanshupatil"height="165"  /></p>
 <br/>
 
