@@ -20,7 +20,7 @@
 <a href="https://stackoverflow.com/users/9740955" target="_blank"><img align="center" src="https://img.shields.io/badge/-9740955-e77922?style=flat-square&logo=stackoverflow&logoColor=white" alt="9740955"   /></a>
 <a href="https://codesandbox.io/u/mehimanshupatil" target="_blank"><img align="center" src="https://img.shields.io/badge/-mehimanshupatil-121518?style=flat-square&logo=CodeSandbox&logoColor=white" alt="mehimanshupatil"  /></a>
 <a href="https://fb.com/mehimanshupatil" target="_blank"><img align="center" src="https://img.shields.io/badge/-@mehimanshupatil-1870e5?style=flat-square&logo=facebook&logoColor=white" alt="mehimanshupatil" /></a>
-<a href="https://instagram.com/mehimanshupatil" target="_blank"><img align="center" src="https://img.shields.io/badge/-@mehimanshupatil-C13584?style=flat-square&logo=instagram&logoColor=white" alt="mehimanshupatil" /></a>
+<a href="https://instagram.com/me.himanshupatil" target="_blank"><img align="center" src="https://img.shields.io/badge/-@me.himanshupatil-C13584?style=flat-square&logo=instagram&logoColor=white" alt="mehimanshupatil" /></a>
 </p>
 <br/>
 
