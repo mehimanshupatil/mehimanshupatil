@@ -20,7 +20,7 @@
 <a href="https://stackoverflow.com/users/9740955" target="_blank"><img align="center" src="https://img.shields.io/badge/-9740955-e77922?style=flat-square&logo=stackoverflow&logoColor=white" alt="9740955"   /></a>
 <a href="https://codesandbox.io/u/mehimanshupatil" target="_blank"><img align="center" src="https://img.shields.io/badge/-mehimanshupatil-121518?style=flat-square&logo=CodeSandbox&logoColor=white" alt="mehimanshupatil"  /></a>
 <a href="https://fb.com/mehimanshupatil" target="_blank"><img align="center" src="https://img.shields.io/badge/-@mehimanshupatil-1870e5?style=flat-square&logo=facebook&logoColor=white" alt="mehimanshupatil" /></a>
-
+<a href="https://instagram.com/mehimanshupatil" target="_blank"><img align="center" src="https://img.shields.io/badge/-@mehimanshupatil-C13584?style=flat-square&logo=instagram&logoColor=white" alt="mehimanshupatil" /></a>
 </p>
 <br/>
 
@@ -63,7 +63,7 @@
 
 <h3 align="left">Github Stats:</h3>
 <p  align="center" ><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=mehimanshupatil&show_icons=true&locale=en&layout=compact" alt="mehimanshupatil" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api?username=mehimanshupatil&show_icons=true&locale=en" alt="mehimanshupatil"height="165"  /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=mehimanshupatil&show_icons=true&locale=en" alt="mehimanshupatil" height="165" /></p>
 <br/>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mehimanshupatil&label=Profile%20views&color=0e75b6&style=flat" alt="mehimanshupatil" /> </p>
