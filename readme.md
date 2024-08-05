@@ -1,8 +1,6 @@
 <h1 align="center"><img src="https://media.giphy.com/media/WqR7WfQVrpXNcmrm81/giphy.gif" width="40px" alt="🙏🏻"/>, I'm Himanshu Patil</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
- 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehimanshupatil" alt="mehimanshupatil" /></a> </p>
-
+  
 - Currently working full time at **<a href="https://www.canvs.in/" target="_blank">Canvs</a>** as Fullstack developer
 - I use JavaScript prefered Typescript as a base language for coding. 
 - On top of it use Reactjs, Angular to manage code. 
